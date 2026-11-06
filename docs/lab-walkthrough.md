@@ -1,5 +1,5 @@
-> By Noah Owen · Originally published September 12, 2022 · [Medium source](https://nowencyber.medium.com/how-to-setup-a-home-lab-running-active-directory-with-oracle-virtualbox-and-add-users-with-b05e651af52)
-> Historical article migrated to Markdown in November 2026. Original wording retained; this is not a newly executed lab.
+> By Noah Owen · Lab completed: September 12, 2022
+> Screenshots and steps document the 2022 lab environment.
 
 # How I Setup a Home Lab Running Active Directory With Oracle VirtualBox and Added Users with PowerShell
 

@@ -1,0 +1,30 @@
+[
+  {
+    "file": "images/figure-01.png",
+    "caption": "Lab architecture overview"
+  },
+  {
+    "file": "images/figure-02.png",
+    "caption": "Domain Controller VM Running Server 2019 and Client VM Running Windows 10"
+  },
+  {
+    "file": "images/figure-03.png",
+    "caption": "Functional DHCP and DNS Services"
+  },
+  {
+    "file": "images/figure-04.png",
+    "caption": "Populated Active Directory Domain with my own Account Navigating AD by Searching for Myself"
+  },
+  {
+    "file": "images/figure-05.png",
+    "caption": "Manual IP Address Assignment for the Internal Network, the Other Adapter Using DHCP"
+  },
+  {
+    "file": "images/figure-06.png",
+    "caption": "Client VM Running Windows 10 Connected to my Domain."
+  },
+  {
+    "file": "images/figure-07.png",
+    "caption": "PowerShell Script Adding Users"
+  }
+]
