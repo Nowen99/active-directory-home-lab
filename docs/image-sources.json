@@ -1,0 +1,37 @@
+[
+  {
+    "file": "images/figure-01.png",
+    "source": "https://miro.medium.com/v2/resize:fit:700/0*mHy-3-Ww0mNb7P2J.png",
+    "alt": "Lab architecture overview"
+  },
+  {
+    "file": "images/figure-02.png",
+    "source": "https://miro.medium.com/v2/resize:fit:700/1*T6Ae9SmqbJJdlZ5pJqUsJQ.png",
+    "alt": "Domain Controller VM Running Server 2019 and Client VM Running Windows 10"
+  },
+  {
+    "file": "images/figure-03.png",
+    "source": "https://miro.medium.com/v2/resize:fit:700/1*qD-WamGnyvch0PtlbMm21w.png",
+    "alt": "Functional DHCP and DNS Services"
+  },
+  {
+    "file": "images/figure-04.png",
+    "source": "https://miro.medium.com/v2/resize:fit:700/1*maKrib-5Ax5uflMQxMhLsw.png",
+    "alt": "Populated Active Directory Domain with my own Account Navigating AD by Searching for Myself"
+  },
+  {
+    "file": "images/figure-05.png",
+    "source": "https://miro.medium.com/v2/resize:fit:700/1*C0WS3gSahaP1WbN81Py64w.png",
+    "alt": "Manual IP Address Assignment for the Internal Network, the Other Adapter Using DHCP"
+  },
+  {
+    "file": "images/figure-06.png",
+    "source": "https://miro.medium.com/v2/resize:fit:700/1*c5gcsaPlKklt-LHyrFPjFg.png",
+    "alt": "Client VM Running Windows 10 Connected to my Domain."
+  },
+  {
+    "file": "images/figure-07.png",
+    "source": "https://miro.medium.com/v2/resize:fit:700/1*PLYQVytchEb-nrU8TYZYig.png",
+    "alt": "PowerShell Script Adding Users"
+  }
+]
